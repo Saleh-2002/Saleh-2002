@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saleh-2002
+- 👋 Hi, I’m @Saleh Alghool
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c++ and python
 - 💞️ I’m looking to collaborate on ...
