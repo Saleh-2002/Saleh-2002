@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Saleh Alghool
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c++ and python
+- Full Stack Developer (MERN)!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +966565915014 WhatsApp
 
