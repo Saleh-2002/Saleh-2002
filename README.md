@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Saleh Alghool
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c++ and python
+- 🌱 I’m currently learning c++ ,Javascript, HTML, CSS and Python!
 - Full Stack Developer (MERN)!
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Games Developer is my Goal
 - 📫 How to reach me +966565915014 WhatsApp
 
 <!---
