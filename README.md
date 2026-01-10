@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saleh Alghool
+- 👋 Hi, I’m @Salih Alghool
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c++ ,Javascript, HTML, CSS and Python!
 - Full Stack Developer (MERN)!
